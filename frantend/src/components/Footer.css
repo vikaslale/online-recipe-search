@@ -1,0 +1,41 @@
+.main-footer{
+    color: white;
+    background-color: black;
+    padding-top: 1em;
+ position: relative;
+    bottom: 0;
+    width: 100%;
+}
+  .icon{
+  
+     margin-left: 30%;
+    
+  }
+
+  .icon li{
+       
+      display: inline;
+       
+      justify-content: space-around;
+      width: 30%;
+     
+   
+  }
+  .icon li i{
+    
+      padding: 10px 12px;
+      font-size: 30px;
+ 
+    
+  }
+.col{
+     float: left;
+    margin-left:  20px;
+ padding-left:  20px;
+ justify-content: center;
+ display: block;
+}
+
+.link{
+    padding-top: 10%;
+}
